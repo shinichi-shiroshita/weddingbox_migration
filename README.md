@@ -1,0 +1,2 @@
+# weddingbox_migration
+マイグレーション用プログラム群を保管
